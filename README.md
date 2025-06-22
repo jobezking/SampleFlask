@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 Follow these steps to get the application up and running on your local machine:
 
 1. **Clone the repository (if applicable):**  
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/your-username/SampleFlask.git  
    cd your-repo-name
 
    * *(Note: If you're creating these files locally, just create an app.py file in a directory.)*  
